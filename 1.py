@@ -11,5 +11,6 @@ print("""
 ----------
         """)
 # Генератор сочетаний(с повторениями) C(m,n)
+
 for i in combinations_with_replacement(m,n):
     print(i,end=' ')
