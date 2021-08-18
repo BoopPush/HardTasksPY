@@ -6,3 +6,5 @@ Going through and analyzing complex python tasks
 2.Генератор размещений
 
 3.Генератор перестановок
+
+4.Итератор размещений
