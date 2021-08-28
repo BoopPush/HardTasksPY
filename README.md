@@ -8,3 +8,5 @@ Going through and analyzing complex python tasks
 3.Генератор перестановок
 
 4.Итератор размещений
+
+5.Удаление дубликатов из Sorted Linked List
